@@ -23,4 +23,15 @@ git reset
 git chechout 'NAME'
 
 8.To undo all changes in all files:
-git checkout
+git checkout .
+
+9.To upload to stage position:
+i>      git add -A  [to stage all]
+ii>     git add .   [to stage new, modified files, without deleted ones]
+iii>    git add -u  [to stage deleted, modified files, without new ones]
+
+10.To pull changes from github:
+git pull origin master
+
+11.To push changes to github:
+git push -u origin master
