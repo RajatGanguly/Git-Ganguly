@@ -13,4 +13,4 @@ git staus
 4.To check corrections:
 git log
 
-5.
+5.To 
