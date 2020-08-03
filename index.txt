@@ -1,2 +1,3 @@
 this is a demo file changed. by github. diff .checking for push command.
 edited through github
+add resetting
