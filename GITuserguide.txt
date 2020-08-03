@@ -13,4 +13,14 @@ git staus
 4.To check corrections:
 git log
 
-5.To 
+5.To back from stage(undo add .):
+git reset 'NAME'
+
+6.To undo all add .:
+git reset
+
+7.To undo changes in a file:
+git chechout 'NAME'
+
+8.To undo all changes in all files:
+git checkout
