@@ -1,0 +1,16 @@
+Here you are gonna learn some interesting stuffs about git and git hub:
+
+1.To upload a corrected code to github:
+git add .
+git commit -m 'NAME'
+
+2.To generate a ssh key:
+go to settigs, then ssh key, you'll find it out soon
+
+3.To check current condition:
+git staus
+
+4.To check corrections:
+git log
+
+5.
