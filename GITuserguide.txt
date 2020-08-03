@@ -35,3 +35,42 @@ git pull origin master
 
 11.To push changes to github:
 git push -u origin master
+
+12.To copy/clone folder from github to a directory:
+git clone ssh_name 
+
+13.To copy/clone repository without making a folder:
+git clone ssh_name .
+
+14.To
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
